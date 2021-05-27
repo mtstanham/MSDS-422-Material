@@ -1,2 +1,1 @@
-# MSDS-422-Material
-MSDS Repository of Material
+# Repository of Machine Learning Projects and Kaggle Competition Code
